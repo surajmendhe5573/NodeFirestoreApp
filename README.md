@@ -3,13 +3,7 @@
 This project is a simple web application built with Node.js and Express, integrating Firebase Firestore for storing form submissions.
 
 ## Setup Instructions
-
-### Prerequisites
-
-Before running this application, make sure you have the following installed:
-
-- Node.js (version >= 12.0.0)
-- npm (Node Package Manager)
+1. Install dependencies: `npm install`.
 
 ### Installation
 
@@ -17,7 +11,6 @@ Before running this application, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/surajmendhe5573/NodeFirestoreApp
-   cd express-firestore-app
 
 ## Technologies Used
 - **Node.js**: Backend runtime environment.
