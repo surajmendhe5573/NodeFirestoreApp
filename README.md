@@ -22,7 +22,7 @@ Before running this application, make sure you have the following installed:
 ## Technologies Used
 - **Node.js**: Backend runtime environment.
 - **Express.js**: Web application framework for Node.js.
-- **Firebase**: Real-time databases.
+- **Firebase**: Real-time database.
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
