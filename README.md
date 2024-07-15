@@ -1,4 +1,4 @@
-# Node.js Express Application with Firebase Firestore Integration
+# Node.js Express Application with Firebase Firestore Integration.
 
 This project is a simple web application built with Node.js and Express, integrating Firebase Firestore for storing form submissions.
 
