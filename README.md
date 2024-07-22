@@ -15,7 +15,7 @@ This project is a simple web application built with Node.js and Express, integra
 ## Technologies Used
 - **Node.js**: Backend runtime environment.
 - **Express.js**: Web application framework for Node.js.
-- **Firebase**: Real-time database.
+- **Firebase**: Real-time database
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
